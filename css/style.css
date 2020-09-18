@@ -1,0 +1,146 @@
+*{
+	color: #FFF;
+    outline: 0;
+    margin :0;
+    padding: 0;
+}
+
+body{
+	background-color: #D9DCD6;
+	margin: 0;
+}
+
+h1{
+	padding-top: 10px;
+	padding-left: 35px;
+}
+
+h2{
+	font-size: 35px;
+}
+
+h3{
+	text-align: center;
+}
+
+.header{
+	background-color: #2A607C;
+	display: inline-flex;
+	width: 100%;
+	height: 70px;
+}
+
+.header ul{
+	padding-left: 340px;
+}
+
+.header ul li{
+	display: inline-flex;
+	list-style: none;
+	padding-top: 20px;
+	padding-left: 70px;	
+	text-align: right;
+}
+
+.seo{
+	color: #D9D9D9;	
+}
+
+.hero{
+	width: 100%;
+	height: 600px;
+	background-image:url("../images/digital-marketing-meeting.jpg");
+  	background-repeat: no-repeat;
+  	background-size: cover;  
+}
+
+.content{
+	float: left;
+	width: 75%;
+}
+
+.float-left{
+	float: left;
+}
+
+.float-right{
+	float: right;
+}
+
+.search-engine-optimization, .online-reputation-management, .social-media-marketing{
+	margin: 1%;
+	padding: 25px;
+	margin-right: 0%;
+	height: 300px;
+	background-color: #0072BB;
+}
+
+.search-engine-optimization h2{
+	padding-top: 30px;
+	padding-left: 30px;
+}
+
+.search-engine-optimization p{
+	padding-left: 30px;
+	padding-top: 20px;
+	padding-right: 20px;
+	line-height: 22px;
+}
+
+.online-reputation-management h2{
+	padding-top: 30px;
+	padding-left: 30px;
+}
+
+.online-reputation-management p{
+	padding-left: 30px;
+	padding-top: 20px;
+	padding-right: 20px;
+	line-height: 22px;
+} 
+
+.social-media-marketing h2 {
+	padding-top: 30px;
+	padding-left: 30px;
+}
+
+.social-media-marketing p{
+	padding-left: 30px;
+	padding-top: 20px;
+	padding-right: 20px;
+	line-height: 22px;
+}
+
+.content img{
+	width: 350px;
+	padding: 30px;
+}
+
+.benefits{
+	background-color: #2589BD;
+	float: right;
+	width: 21%;
+	height: 130%;
+	padding : 1%;
+	margin : 1%;
+}
+
+.benefits img{
+	width: 240px;
+	padding: 0;
+}
+
+.benefits p{
+	padding: 10px;
+}
+
+.footer{
+	position: relative;
+	bottom: 0;
+}
+
+.footer p{
+	color: black;
+	text-align: center;
+}
+
